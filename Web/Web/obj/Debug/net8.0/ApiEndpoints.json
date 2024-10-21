@@ -1,0 +1,68 @@
+[
+  {
+    "ContainingType": "Web.Controllers.ValuesController",
+    "Method": "retValuesSensors",
+    "RelativePath": "api/retValues",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ValuesController",
+    "Method": "givesensorvalue",
+    "RelativePath": "api/retValues",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ax",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "ay",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "az",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "gx",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "gy",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "gz",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "mx",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "my",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "mz",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
