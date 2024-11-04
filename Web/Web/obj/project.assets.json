@@ -428,23 +428,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\saulo\\.nuget\\packages\\": {},
+    "D:\\Arquivos De Programas\\Visual Studio IDE Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documents\\faculdade\\Web\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\Documentos\\UFU\\SEMB 2\\Web\\Web\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documents\\faculdade\\Web\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documents\\faculdade\\Web\\Web\\obj\\",
+      "projectPath": "D:\\Documentos\\UFU\\SEMB 2\\Web\\Web\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\UFU\\SEMB 2\\Web\\Web\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Arquivos De Programas\\Visual Studio IDE Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

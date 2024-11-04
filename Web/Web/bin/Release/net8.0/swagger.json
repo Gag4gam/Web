@@ -1,0 +1,87 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/retValues": {
+      "get": {
+        "tags": [
+          "Values"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Values"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "ax",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "ay",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "az",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "gx",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "gy",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "gz",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "mx",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "my",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "mz",
+            "type": "number",
+            "format": "double"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}

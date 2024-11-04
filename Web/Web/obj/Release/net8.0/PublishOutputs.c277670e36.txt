@@ -1,0 +1,11 @@
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Web.exe
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Web.dll
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Web.deps.json
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Web.runtimeconfig.json
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Web.pdb
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\UFU\SEMB 2\Web\Web\Web\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
